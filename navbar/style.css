@@ -52,11 +52,11 @@ a {
 .nav-link {
     font-size: 1.6rem;
     font-weight: 400;
-    color: darkslateblue;
+    color: darksalmon;
 }
 
 .nav-link:hover {
-    color: darksalmon;
+    color: darkslateblue;
 }
 
 .nav-logo {
